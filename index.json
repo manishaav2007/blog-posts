@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": "welcome",
+      "title": "Welcome to My Blog",
+      "date": "2026-03-06",
+      "image": "https://via.placeholder.com/400x200",
+      "tags": "Welcome, First Post",
+      "excerpt": "This is my first blog post using GitHub!",
+      "filename": "posts/welcome.md"
+    }
+  ]
+}
