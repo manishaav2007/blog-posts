@@ -1,6 +1,15 @@
 {
   "posts": [
     {
+      "id": "second",
+      "title": "My Second Post",
+      "date": "2026-03-06",
+      "image": "https://via.placeholder.com/400x200",
+      "tags": "Tutorial",
+      "excerpt": "Learning to blog without database",
+      "filename": "posts/second.md"
+    },
+    {
       "id": "welcome",
       "title": "Welcome to My Blog",
       "date": "2026-03-06",
